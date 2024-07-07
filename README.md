@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bruno Gallego;
-- 👀 I’m interested in Computer Graphics (Game Engine, Physic-Based Animation);
-- 🌱 I’m currently learning PBR (Physically-Based Rendering) using Material system similar Unity.
-- 💞️ I’m looking for collaborators who are interessed in build a game engine;
-- 📫 How to reach me: 
+- 👋 Hi!;
+- 👀 I’m interested in ...;
+- 🌱 I’m currently learning ....
+- 💞️ I’m looking for ...
+- 📫 How to reach me: SegmentFault
 
 <!---
 bgsa/bgsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
